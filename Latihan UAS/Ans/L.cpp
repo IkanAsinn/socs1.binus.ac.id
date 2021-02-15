@@ -104,11 +104,14 @@ int main() {
             if (left > max || right < min)
                 start = end = -1;
 
-            else if (left < min)
-                start = 0;
-                
-            else if (right > max)
-                end = n - 1;
+            else
+            {
+                if (left < min)
+                   start = 0;
+                   
+                if (right > max)
+                   end = n - 1;
+            }
 
             if (start == -1 && end == -1)
                 puts("0");

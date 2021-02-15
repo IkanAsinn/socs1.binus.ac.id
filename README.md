@@ -197,3 +197,9 @@ Directories :
       • Party Beverages (Prob F)  
       • The Famous Gauss (Prob L)  
       • World of Lovecraft (Prob J)  
+
+  - UAS :
+      • BMI Sorting Machine (Prob A)  
+      • Record Finder (Prob B)  
+      • Financial Aid During Pandemic (Prob C)  
+      • Booklet Printing (Prob D)  
