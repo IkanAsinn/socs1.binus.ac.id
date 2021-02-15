@@ -198,7 +198,7 @@ Directories :
       • The Famous Gauss (Prob L)  
       • World of Lovecraft (Prob J)  
 
-  - UAS :
+- UAS :
       • BMI Sorting Machine (Prob A)  
       • Record Finder (Prob B)  
       • Financial Aid During Pandemic (Prob C)  
